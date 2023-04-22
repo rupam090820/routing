@@ -1,0 +1,9 @@
+nav>a{
+    text-decoration: none;
+    margin: 30px;
+    padding: 30px;
+}
+nav{
+    text-align: center;
+    background-color: gold;
+}
